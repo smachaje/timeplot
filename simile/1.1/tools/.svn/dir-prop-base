@@ -1,0 +1,7 @@
+K 13
+svn:externals
+V 148
+jsdoc http://jsdoc-toolkit.googlecode.com/svn/trunk/jsdoc-toolkit/ 
+jsmin-task http://simile-widgets.googlecode.com/svn/tools/jsmin-task/trunk/lib/
+
+END

@@ -1,0 +1,7 @@
+K 13
+svn:externals
+V 127
+lib http://simile-widgets.googlecode.com/svn/tools/jetty/
+tools http://simile-widgets.googlecode.com/svn/timeline/trunk/tools/
+
+END
