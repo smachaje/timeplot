@@ -9,5 +9,5 @@ like this:
 
        
        
-<script src="https://cdn.rawgit.com/smachaje/timeplot/master/simile/1.1/src/webapp/api/timeplot-api.js"
-       type="text/javascript"></script>
+&lt;script src="https://cdn.rawgit.com/smachaje/timeplot/master/simile/1.1/src/webapp/api/timeplot-api.js"
+       type="text/javascript">&lt;/script>
